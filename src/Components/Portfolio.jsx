@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/desk.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "A desk with a keyboard, notebook, and a mouse.";
 
 /**
  * Project list
@@ -31,28 +31,22 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "The Sports Couch 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A user-friendly sports web application that provides the users organize the matches that are being conducted locally.",
+    url: "https://the-sports-couch.onrender.com/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Antique Exchange",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Created a web-application where the users can rent items and make them available for others to lease.",
+    url: "https://github.com/DurgaPrasad-R/Antique-Exchange",
   },
   {
-    title: "My Resume Site",
+    title: "The Food Store",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
-  },
-  {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Created a platform similar to swiggy or zomato where people have the same functionality similar to those by making use of ReactJs",
+    url: "https://github.com/DurgaPrasad-R/ReactJS",
   },
 ];
 
